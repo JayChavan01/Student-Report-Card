@@ -50,19 +50,23 @@ View Detailed Project: https://tinyurl.com/bdd39pph
 ![IMG_1](https://github.com/user-attachments/assets/4b3c646a-2969-4f17-b287-149e65409433)
 ![IMG_1 1](https://github.com/user-attachments/assets/0dae67e3-8b86-468d-9c45-9907cdc94a75)
 
+
 2️⃣ Report updates dynamically when an ID is selected.
 ![IMG_2](https://github.com/user-attachments/assets/8119ce31-dd87-4b6c-9cc9-13b3d330ffbc)
 
+
 3️⃣ Full view of **selection and final report**.
 ![IMG_3](https://github.com/user-attachments/assets/ed4cb549-7855-4afa-b2b9-4ad6d9904b71)
+
 
 4️⃣ **Image 4:** Database structure containing student records.  
 ![IMG_4](https://github.com/user-attachments/assets/b8a10f18-e804-4f65-be07-28adb641cee4)
 ![IMG_5](https://github.com/user-attachments/assets/23574d85-1295-4d0c-9563-b30122013394)
 
+
 ### **Video Demonstration:**
 Here’s a video that demonstrates how this Translator project works:
-https://github.com/user-attachments/assets/39856f79-a60b-479d-afe7-f5b87ff33775
+https://github.com/user-attachments/assets/90084afe-07c3-4e39-8ba5-96fae8350af2
 
 ---
 
