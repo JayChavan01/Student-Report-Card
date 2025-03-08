@@ -47,8 +47,8 @@ View Detailed Project: https://tinyurl.com/bdd39pph
 
 📌 **Screenshots:**  
 1️⃣ Enter the **Student ID** manually or Select it from a dropdown list.
-![IMG_1](https://github.com/user-attachments/assets/4b3c646a-2969-4f17-b287-149e65409433)!
-[IMG_1 1](https://github.com/user-attachments/assets/0dae67e3-8b86-468d-9c45-9907cdc94a75)
+![IMG_1](https://github.com/user-attachments/assets/4b3c646a-2969-4f17-b287-149e65409433)
+![IMG_1 1](https://github.com/user-attachments/assets/0dae67e3-8b86-468d-9c45-9907cdc94a75)
 
 2️⃣ Report updates dynamically when an ID is selected.
 ![IMG_2](https://github.com/user-attachments/assets/8119ce31-dd87-4b6c-9cc9-13b3d330ffbc)
@@ -60,7 +60,8 @@ View Detailed Project: https://tinyurl.com/bdd39pph
 ![IMG_4](https://github.com/user-attachments/assets/b8a10f18-e804-4f65-be07-28adb641cee4)
 ![IMG_5](https://github.com/user-attachments/assets/23574d85-1295-4d0c-9563-b30122013394)
 
-📌 **Watch the video for a better understanding.** 
+### **Video Demonstration:**
+Here’s a video that demonstrates how this Translator project works:
 https://github.com/user-attachments/assets/39856f79-a60b-479d-afe7-f5b87ff33775
 
 ---
