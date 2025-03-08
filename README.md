@@ -56,8 +56,9 @@ View Detailed Project: https://tinyurl.com/bdd39pph
 
 
 3️⃣ Full view of selection and final report.
-![Screenshot 2025-03-08 160129](https://github.com/user-attachments/assets/dce63f15-3240-4c49-98c9-5ca3000bfc53)
+
 ![IMG_3](https://github.com/user-attachments/assets/9adf74a3-f392-45ec-a8f6-458b0f49c3dc)
+
 4️⃣ **Image 4:** Database structure containing student records.  
 ![IMG_4](https://github.com/user-attachments/assets/b8a10f18-e804-4f65-be07-28adb641cee4)
 ![IMG_5](https://github.com/user-attachments/assets/23574d85-1295-4d0c-9563-b30122013394)
