@@ -54,8 +54,10 @@ View Detailed Project: https://tinyurl.com/bdd39pph
 2️⃣ Report updates dynamically when an ID is selected.
 ![IMG_2](https://github.com/user-attachments/assets/8119ce31-dd87-4b6c-9cc9-13b3d330ffbc)
 
+3️⃣ Full view of **selection and final report**
+![IMG_3](https://github.com/user-attachments/assets/ed4cb549-7855-4afa-b2b9-4ad6d9904b71)
 
-3️⃣ Full view of **selection and final report**.
+3️⃣ Full view of **selection and final report**
 ![IMG_3](https://github.com/user-attachments/assets/ed4cb549-7855-4afa-b2b9-4ad6d9904b71)
 
 
