@@ -56,6 +56,7 @@ View Detailed Project: https://tinyurl.com/bdd39pph
 
 
 3️⃣ Full view of selection and final report.
+
 ![IMG_3](https://github.com/user-attachments/assets/9adf74a3-f392-45ec-a8f6-458b0f49c3dc)
 
 4️⃣ **Image 4:** Database structure containing student records.  
@@ -64,8 +65,9 @@ View Detailed Project: https://tinyurl.com/bdd39pph
 
 
 ### **Video Demonstration:**
-Here’s a video that demonstrates how this Translator project works:
-https://github.com/user-attachments/assets/90084afe-07c3-4e39-8ba5-96fae8350af2
+Here’s a video that demonstrates how this Translator project works.
+
+https://github.com/user-attachments/assets/8dec4c0d-2820-4241-ae61-465eb6562db4
 
 ---
 
